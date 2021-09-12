@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+}
+.top{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+.me{
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+}
+.comp{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    height: 100%;
+}
+.program{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+    margin-bottom: auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
